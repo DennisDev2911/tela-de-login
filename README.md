@@ -26,4 +26,4 @@ Estrutura adaptável para diferentes tamanhos de tela.
 
 ## 📺 Aprendi esse projeto no DevClub
 <img src="https://github.com/DennisDev2911/tela-de-login/blob/main/img/tela%20de%20login.JPG?raw=true">
-<img src=""
+<img src="https://github.com/DennisDev2911/tela-de-login/blob/main/img/tela%20de%20login%20-%20celular.JPG?raw=true">
